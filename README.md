@@ -5,7 +5,7 @@ ArduPilot is an open source, unmanned vehicle Autopilot Software Suite, capable 
 
 <b>Basic Structure</b>
 
-<img src = "https://github.com/sona-19/Learning-Ardupilot-Code-/blob/master/Selection_011.png" width = "340">
+<img src = "https://github.com/sona-19/Learning-Ardupilot-Code-/blob/master/Selection_011.png" >
 
 The basic structure of ArduPilot is broken up into 5 main parts:
 <ol>
