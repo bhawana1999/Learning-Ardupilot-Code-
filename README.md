@@ -51,9 +51,9 @@ mavlink - the mavlink protocol and code generator
 
 <ol>
     
-    <li>Core Libraries - This includes libraries for PID control, waypoint navigation, altitude control and motors etc.
-    <li>Sensor Libraries - This includes libraries for inertial sensor, barometer, optical flow, GPS, compass etc.
-    <li>Other Libraries- This includes libraries for camera, buffer etc. For ex. AP_Mission library stores/retrieves mission commands from eeprom
+ <li>Core Libraries - This includes libraries for PID control, waypoint navigation, altitude control and motors etc.
+ <li>Sensor Libraries - This includes libraries for inertial sensor, barometer, optical flow, GPS, compass etc.
+ <li>Other Libraries- This includes libraries for camera, buffer etc. For ex. AP_Mission library stores/retrieves mission commands from eeprom
     
  </ol>
  
