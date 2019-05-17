@@ -36,7 +36,7 @@ The AP_HAL layer (Hardware Abstraction Layer) is how we make ArduPilot portable 
 The tools directories are miscellaneous support directories. For examples, tools/autotest provides the autotest infrastructure behind the autotest.ardupilot.org site and tools/Replay provides our log replay utility.
 
 
-<b>External support code<b>
+<b>External support code</b>
 
 On some platforms we need external support code to provide additional features or board support. Currently the external trees are:
 
